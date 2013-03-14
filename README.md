@@ -8,9 +8,13 @@ Integrantes
 
 
 Maria teresa crespo
+
 Daniela mendoza
+
 Margarita gonzalez
+
 Paola diaz
+
 Tatiana rivera
 
 
