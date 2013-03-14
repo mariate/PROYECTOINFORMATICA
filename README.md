@@ -32,8 +32,9 @@ Links 2 "http://www.youtube.com/watch?v=9vrC3thf_gE"
 links musica
 ============
 link "http://incompetech.com/music/royalty-free/index.html?genre=Contemporary"
-Frases
 
+Frases
+======
 "Es un error esencial considerar la violencia como una fuerza."
 
 "La violencia es miedo de las ideas de los demás y poca fe en las propias"
